@@ -38,7 +38,7 @@ The main goal is to develop a **robust and reliable predictive model** for land 
 ---
 
 ## 📊 Results
-- **Model Accuracy:** [Add your result here]  
+- **Model Validation Accuracy:**  0.96 
 - **Insights:** Model reliably classifies land cover types even with noisy NDVI data
 
 ---
@@ -76,4 +76,5 @@ The main goal is to develop a **robust and reliable predictive model** for land 
 Copyright (c) 2025 Vivan Khatri  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \
 Software\), to deal in the Software without restriction, including the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software.
+
 
